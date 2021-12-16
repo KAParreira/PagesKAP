@@ -1,0 +1,36 @@
+
+
+*{
+
+margin-top:5px;
+}
+body{
+background-color:#B0E0E6;
+padding:10px;
+}
+
+.logo{
+   
+  width:95px;
+  height:70px;  
+  	
+}
+
+h1 {
+ 
+ text-align:center; 
+ color:#8B0000;
+	
+}
+
+.nav-item {
+ 
+ padding:8% 18%; 
+ font-size:140%;
+ font-weight:bold;
+	
+}
+
+
+
+
